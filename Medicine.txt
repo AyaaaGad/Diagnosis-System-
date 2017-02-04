@@ -1,0 +1,20 @@
+trachoma
+Medicine: tetracycline,  erythromycin,  azithromycin .
+cataract
+Medicine: no medical solution it needs surgery.  
+glaucoma
+Medicine : use droplet,  if it doesn't work you need a surgery .
+Tooth_decay
+Medicine:Consult your doctor to put fillings.
+Gingivoglossitis
+Medicine :mouthwash,antibiotics .
+Influenza
+Medicine:Ibuprofen and Pseudoephedrine.
+Dehydration
+Medicine : metoclopramide  ibuprofen acetaminophen .
+Fever
+Medicine:Acetylsalicylic Acid,meloxicam.
+Cancer
+Medicine:Disodium Folinate and consult your doctor.
+
+

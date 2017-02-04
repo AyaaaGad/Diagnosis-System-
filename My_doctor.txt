@@ -1,0 +1,9 @@
+trachoma Eyes_illnesses 12   Mohamed_Mahmoud_Gamal   32   M   0152684523   50   30_Maadi_Street
+cataract  Eyes_illnesses 12  Mohamed_Mahmoud_Gamal   32   M   0152684523   50   30_Maadi_Street
+glaucoma  Eyes_illnesses 12  Mohamed_Mahmoud_Gamal   32   M   0152684523   50   30_Maadi_Street
+Tooth_decay  Tooth  15 Ahmed_Mousa_Mohamed   45   M   01526874236   90   25_Giza_Street
+Gingivoglossitis Tooth  15 Ahmed_Mousa_Mohamed   45   M   01526874236   90   25_Giza_Street
+Influenza  Infectious_diseases 10  Lames_Elhadedy_Adeb   41   F   01254569325   150   10_Helwan_Street
+Dehydration  Infectious_diseases 10 Lames_Elhadedy_Adeb   41   F   01254569325   150   10_Helwan_Street
+Fever  Infectious_diseases 10  Lames_Elhadedy_Adeb   41   F   01254569325   150   10_Helwan_Street
+Cancer Malignant_and_benign_tumors 7  Mortada_Mansour_Mohamed   53   M   01256852479   500   12_Tahrer_Street

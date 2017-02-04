@@ -1,0 +1,2673 @@
+# depslib dependency file v1.0
+1385316878 source:c:\users\administrator\desktop\emam\oooop\main.cpp
+	<iostream>
+
+1450874749 source:c:\users\administrator\desktop\emam\oooop\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1450874997 c:\users\administrator\desktop\emam\oooop\include\person.h
+	<iostream>
+	<string>
+
+1450873413 source:c:\users\administrator\desktop\emam\oooop\src\patient.cpp
+	"Patient.h"
+	<iostream>
+	<string>
+
+1450873467 c:\users\administrator\desktop\emam\oooop\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+
+1450873532 source:c:\users\administrator\desktop\emam\oooop\src\doctor.cpp
+	"Doctor.h"
+
+1450874997 c:\users\administrator\desktop\emam\oooop\include\doctor.h
+	"Person.h"
+	<string>
+
+1450873747 source:c:\users\administrator\desktop\emam\oooop\src\operations.cpp
+	"Operations.h"
+
+1450874997 c:\users\administrator\desktop\emam\oooop\include\operations.h
+	"Doctor.h"
+	<string>
+
+1450873812 source:c:\users\administrator\desktop\emam\oooop\src\medicine.cpp
+	"Medicine.h"
+
+1450873868 c:\users\administrator\desktop\emam\oooop\include\medicine.h
+	<string>
+	<iostream>
+
+1450873887 source:c:\users\administrator\desktop\emam\oooop\src\diseases.cpp
+	"Diseases.h"
+
+1450877969 c:\users\administrator\desktop\emam\oooop\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1450877853 c:\users\administrator\desktop\emam\oooop\include\symptoms.h
+	"Patient.h"
+
+1450877451 source:c:\users\administrator\desktop\emam\oooop\src\symptoms.cpp
+	"Symptoms.h"
+
+1450955820 source:c:\users\pc-eng-esraa\downloads\oooop (1)\oooop\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+
+1450873887 source:c:\users\pc-eng-esraa\downloads\oooop (1)\oooop\src\diseases.cpp
+	"Diseases.h"
+
+1450952645 c:\users\pc-eng-esraa\downloads\oooop (1)\oooop\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1450954946 c:\users\pc-eng-esraa\downloads\oooop (1)\oooop\include\symptoms.h
+	<string>
+	<iostream>
+
+1450956113 c:\users\pc-eng-esraa\downloads\oooop (1)\oooop\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1450874997 c:\users\pc-eng-esraa\downloads\oooop (1)\oooop\include\person.h
+	<iostream>
+	<string>
+
+1450956313 source:c:\users\pc-eng-esraa\downloads\oooop (1)\oooop\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1450956113 c:\users\pc-eng-esraa\downloads\oooop (1)\oooop\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+
+1450954493 source:c:\users\pc-eng-esraa\downloads\oooop (1)\oooop\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+
+1450954433 c:\users\pc-eng-esraa\downloads\oooop (1)\oooop\include\medicine.h
+	<string>
+	<iostream>
+
+1450954503 source:c:\users\pc-eng-esraa\downloads\oooop (1)\oooop\src\operations.cpp
+	"Operations.h"
+
+1450950079 c:\users\pc-eng-esraa\downloads\oooop (1)\oooop\include\operations.h
+	<string>
+	<iostream>
+
+1450956113 source:c:\users\pc-eng-esraa\downloads\oooop (1)\oooop\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1450874749 source:c:\users\pc-eng-esraa\downloads\oooop (1)\oooop\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1450954946 source:c:\users\pc-eng-esraa\downloads\oooop (1)\oooop\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+
+1451176636 source:h:\oooop (1)\oooop\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+
+1451174058 h:\oooop (1)\oooop\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451243994 h:\oooop (1)\oooop\include\symptoms.h
+	<string>
+	<iostream>
+
+1450992314 source:h:\oooop (1)\oooop\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1450992114 h:\oooop (1)\oooop\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+
+1450910998 h:\oooop (1)\oooop\include\person.h
+	<iostream>
+	<string>
+
+1450990494 source:h:\oooop (1)\oooop\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+
+1450990434 h:\oooop (1)\oooop\include\medicine.h
+	<string>
+	<iostream>
+
+1450990504 source:h:\oooop (1)\oooop\src\operations.cpp
+	"Operations.h"
+
+1450986080 h:\oooop (1)\oooop\include\operations.h
+	<string>
+	<iostream>
+
+1450992114 source:h:\oooop (1)\oooop\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1450992114 h:\oooop (1)\oooop\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1450910750 source:h:\oooop (1)\oooop\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1450990948 source:h:\oooop (1)\oooop\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+
+1451244004 source:h:\oooop (1)\oooop\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+
+1451251687 source:c:\users\emam mahmoud\desktop\oooop\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+
+1451247102 c:\users\emam mahmoud\desktop\oooop\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+
+1450910998 c:\users\emam mahmoud\desktop\oooop\include\person.h
+	<iostream>
+	<string>
+
+1451247102 c:\users\emam mahmoud\desktop\oooop\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1451250169 c:\users\emam mahmoud\desktop\oooop\include\symptoms.h
+	<string>
+	<iostream>
+
+1451252165 source:c:\users\emam mahmoud\desktop\oooop\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451251188 c:\users\emam mahmoud\desktop\oooop\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451247102 source:c:\users\emam mahmoud\desktop\oooop\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1451247102 source:c:\users\emam mahmoud\desktop\oooop\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+
+1451247102 c:\users\emam mahmoud\desktop\oooop\include\medicine.h
+	<string>
+	<iostream>
+
+1451247102 source:c:\users\emam mahmoud\desktop\oooop\src\operations.cpp
+	"Operations.h"
+
+1451247102 c:\users\emam mahmoud\desktop\oooop\include\operations.h
+	<string>
+	<iostream>
+
+1451247102 source:c:\users\emam mahmoud\desktop\oooop\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1450910750 source:c:\users\emam mahmoud\desktop\oooop\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451252620 source:c:\users\emam mahmoud\desktop\oooop\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+
+1451294632 source:c:\users\pc-eng-esraa\desktop\oooop12\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+
+1451211104 c:\users\pc-eng-esraa\desktop\oooop12\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+
+1451219832 c:\users\pc-eng-esraa\desktop\oooop12\include\person.h
+	<iostream>
+	<string>
+
+1451211104 c:\users\pc-eng-esraa\desktop\oooop12\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1451294632 c:\users\pc-eng-esraa\desktop\oooop12\include\symptoms.h
+	<string>
+	<iostream>
+
+1451294401 c:\users\pc-eng-esraa\desktop\oooop12\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451211104 source:c:\users\pc-eng-esraa\desktop\oooop12\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1451294215 source:c:\users\pc-eng-esraa\desktop\oooop12\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+	<string>
+
+1451267246 c:\users\pc-eng-esraa\desktop\oooop12\include\medicine.h
+	<string>
+	<iostream>
+	"Diseases.h"
+
+1451211104 source:c:\users\pc-eng-esraa\desktop\oooop12\src\operations.cpp
+	"Operations.h"
+
+1451211104 c:\users\pc-eng-esraa\desktop\oooop12\include\operations.h
+	<string>
+	<iostream>
+
+1451211104 source:c:\users\pc-eng-esraa\desktop\oooop12\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1450874750 source:c:\users\pc-eng-esraa\desktop\oooop12\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451230982 source:c:\users\pc-eng-esraa\desktop\oooop12\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+
+1451295022 source:c:\users\pc-eng-esraa\desktop\oooop12\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451298315 source:c:\users\pc-eng-esraa\desktop\oooop12 - copy\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451294401 c:\users\pc-eng-esraa\desktop\oooop12 - copy\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451294632 c:\users\pc-eng-esraa\desktop\oooop12 - copy\include\symptoms.h
+	<string>
+	<iostream>
+
+1451211104 source:c:\users\pc-eng-esraa\desktop\oooop12 - copy\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1451211104 c:\users\pc-eng-esraa\desktop\oooop12 - copy\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+
+1451219832 c:\users\pc-eng-esraa\desktop\oooop12 - copy\include\person.h
+	<iostream>
+	<string>
+
+1451300165 source:c:\users\pc-eng-esraa\desktop\oooop12 - copy\src\operations.cpp
+	"Operations.h"
+
+1451298926 c:\users\pc-eng-esraa\desktop\oooop12 - copy\include\operations.h
+	<string>
+	<iostream>
+
+1451211104 source:c:\users\pc-eng-esraa\desktop\oooop12 - copy\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1451211104 c:\users\pc-eng-esraa\desktop\oooop12 - copy\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1450874750 source:c:\users\pc-eng-esraa\desktop\oooop12 - copy\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451298316 source:c:\users\pc-eng-esraa\desktop\oooop12 - copy\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+
+1451300323 source:c:\users\pc-eng-esraa\desktop\oooop12 - copy\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"Operations.h"
+
+1451267246 c:\users\pc-eng-esraa\desktop\oooop12 - copy\include\medicine.h
+	<string>
+	<iostream>
+	"Diseases.h"
+
+1451300323 source:c:\users\pc-eng-esraa\desktop\oooop12 - copy\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+	<string>
+
+1451336324 source:h:\oooop12 - copy\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"Operations.h"
+
+1451247104 h:\oooop12 - copy\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+
+1451255834 h:\oooop12 - copy\include\person.h
+	<iostream>
+	<string>
+
+1451247104 h:\oooop12 - copy\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1451330634 h:\oooop12 - copy\include\symptoms.h
+	<string>
+	<iostream>
+
+1451330402 h:\oooop12 - copy\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451303248 h:\oooop12 - copy\include\medicine.h
+	<string>
+	<iostream>
+	"Diseases.h"
+
+1451334928 h:\oooop12 - copy\include\operations.h
+	<string>
+	<iostream>
+
+1451334316 source:h:\oooop12 - copy\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451247104 source:h:\oooop12 - copy\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1451336324 source:h:\oooop12 - copy\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+	<string>
+
+1451336166 source:h:\oooop12 - copy\src\operations.cpp
+	"Operations.h"
+
+1451247104 source:h:\oooop12 - copy\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1450910750 source:h:\oooop12 - copy\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451334318 source:h:\oooop12 - copy\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+
+1451305024 source:c:\users\aya\desktop\oooop12 - copy\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"Operations.h"
+
+1451304264 c:\users\aya\desktop\oooop12 - copy\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+
+1451219834 c:\users\aya\desktop\oooop12 - copy\include\person.h
+	<iostream>
+	<string>
+
+1451211104 c:\users\aya\desktop\oooop12 - copy\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1451294634 c:\users\aya\desktop\oooop12 - copy\include\symptoms.h
+	<string>
+	<iostream>
+
+1451294402 c:\users\aya\desktop\oooop12 - copy\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451267248 c:\users\aya\desktop\oooop12 - copy\include\medicine.h
+	<string>
+	<iostream>
+	"Diseases.h"
+
+1451298928 c:\users\aya\desktop\oooop12 - copy\include\operations.h
+	<string>
+	<iostream>
+
+1451298316 source:c:\users\aya\desktop\oooop12 - copy\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451305122 source:c:\users\aya\desktop\oooop12 - copy\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+	"Person.h"
+
+1451300324 source:c:\users\aya\desktop\oooop12 - copy\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+	<string>
+
+1451300166 source:c:\users\aya\desktop\oooop12 - copy\src\operations.cpp
+	"Operations.h"
+
+1451211104 source:c:\users\aya\desktop\oooop12 - copy\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1450874750 source:c:\users\aya\desktop\oooop12 - copy\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451298318 source:c:\users\aya\desktop\oooop12 - copy\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+
+1451318717 source:c:\users\aya\desktop\ay 7aga\oooop12 - copy\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"Operations.h"
+
+1451304266 c:\users\aya\desktop\ay 7aga\oooop12 - copy\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+
+1451219834 c:\users\aya\desktop\ay 7aga\oooop12 - copy\include\person.h
+	<iostream>
+	<string>
+
+1451211104 c:\users\aya\desktop\ay 7aga\oooop12 - copy\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1451294634 c:\users\aya\desktop\ay 7aga\oooop12 - copy\include\symptoms.h
+	<string>
+	<iostream>
+
+1451294402 c:\users\aya\desktop\ay 7aga\oooop12 - copy\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451267248 c:\users\aya\desktop\ay 7aga\oooop12 - copy\include\medicine.h
+	<string>
+	<iostream>
+	"Diseases.h"
+
+1451298928 c:\users\aya\desktop\ay 7aga\oooop12 - copy\include\operations.h
+	<string>
+	<iostream>
+
+1451318326 source:c:\users\aya\desktop\ay 7aga\oooop12 - copy\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451318097 source:c:\users\aya\desktop\ay 7aga\oooop12 - copy\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+	"Person.h"
+
+1451300324 source:c:\users\aya\desktop\ay 7aga\oooop12 - copy\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+	<string>
+
+1451319524 source:c:\users\aya\desktop\ay 7aga\oooop12 - copy\src\operations.cpp
+	"Operations.h"
+
+1451211104 source:c:\users\aya\desktop\ay 7aga\oooop12 - copy\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1450874750 source:c:\users\aya\desktop\ay 7aga\oooop12 - copy\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451298318 source:c:\users\aya\desktop\ay 7aga\oooop12 - copy\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+
+1451335814 source:c:\users\pc-eng-esraa\desktop\last oop\oooop12 - copy\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Diagonsis.h"
+
+1451304266 c:\users\pc-eng-esraa\desktop\last oop\oooop12 - copy\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+
+1451219834 c:\users\pc-eng-esraa\desktop\last oop\oooop12 - copy\include\person.h
+	<iostream>
+	<string>
+
+1451211104 c:\users\pc-eng-esraa\desktop\last oop\oooop12 - copy\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1451323985 c:\users\pc-eng-esraa\desktop\last oop\oooop12 - copy\include\symptoms.h
+	<string>
+	<iostream>
+
+1451294402 c:\users\pc-eng-esraa\desktop\last oop\oooop12 - copy\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451322791 c:\users\pc-eng-esraa\desktop\last oop\oooop12 - copy\include\medicine.h
+	<string>
+	<iostream>
+	"Diseases.h"
+
+1451298928 c:\users\pc-eng-esraa\desktop\last oop\oooop12 - copy\include\operations.h
+	<string>
+	<iostream>
+
+1451318328 source:c:\users\pc-eng-esraa\desktop\last oop\oooop12 - copy\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451318098 source:c:\users\pc-eng-esraa\desktop\last oop\oooop12 - copy\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+	"Person.h"
+
+1451322791 source:c:\users\pc-eng-esraa\desktop\last oop\oooop12 - copy\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+	<string>
+
+1451319526 source:c:\users\pc-eng-esraa\desktop\last oop\oooop12 - copy\src\operations.cpp
+	"Operations.h"
+
+1451211104 source:c:\users\pc-eng-esraa\desktop\last oop\oooop12 - copy\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1450874750 source:c:\users\pc-eng-esraa\desktop\last oop\oooop12 - copy\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451322383 source:c:\users\pc-eng-esraa\desktop\last oop\oooop12 - copy\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+
+1451319818 c:\users\pc-eng-esraa\desktop\last oop\oooop12 - copy\template.h
+
+1451323843 source:c:\users\pc-eng-esraa\desktop\last oop\oooop12 - copy\diagonsis.cpp
+	"Diagonsis.h"
+
+1451323901 c:\users\pc-eng-esraa\desktop\last oop\oooop12 - copy\diagonsis.h
+	"Doctor.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+
+1451368529 source:c:\users\pc-eng-esraa\desktop\last oooop\diagonsis.cpp
+	"Diagonsis.h"
+
+1451323901 c:\users\pc-eng-esraa\desktop\last oooop\diagonsis.h
+	"Doctor.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+
+1451304266 c:\users\pc-eng-esraa\desktop\last oooop\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+
+1451219834 c:\users\pc-eng-esraa\desktop\last oooop\include\person.h
+	<iostream>
+	<string>
+
+1451323985 c:\users\pc-eng-esraa\desktop\last oooop\include\symptoms.h
+	<string>
+	<iostream>
+
+1451294402 c:\users\pc-eng-esraa\desktop\last oooop\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451322791 c:\users\pc-eng-esraa\desktop\last oooop\include\medicine.h
+	<string>
+	<iostream>
+	"Diseases.h"
+
+1451319818 c:\users\pc-eng-esraa\desktop\last oooop\template.h
+
+1451298928 c:\users\pc-eng-esraa\desktop\last oooop\include\operations.h
+	<string>
+	<iostream>
+
+1451335814 source:c:\users\pc-eng-esraa\desktop\last oooop\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Diagonsis.h"
+
+1451211104 c:\users\pc-eng-esraa\desktop\last oooop\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1451318328 source:c:\users\pc-eng-esraa\desktop\last oooop\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451318098 source:c:\users\pc-eng-esraa\desktop\last oooop\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+	"Person.h"
+
+1451322791 source:c:\users\pc-eng-esraa\desktop\last oooop\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+	<string>
+
+1451319526 source:c:\users\pc-eng-esraa\desktop\last oooop\src\operations.cpp
+	"Operations.h"
+
+1451211104 source:c:\users\pc-eng-esraa\desktop\last oooop\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1450874750 source:c:\users\pc-eng-esraa\desktop\last oooop\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451322383 source:c:\users\pc-eng-esraa\desktop\last oooop\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+
+1451386946 source:c:\users\pc-eng-esraa\desktop\new folder (2)\last oooop\diagonsis.cpp
+	"Diagonsis.h"
+	<windows.h>
+
+1451385839 c:\users\pc-eng-esraa\desktop\new folder (2)\last oooop\diagonsis.h
+	"Doctor.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+
+1451383181 c:\users\pc-eng-esraa\desktop\new folder (2)\last oooop\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+
+1451219834 c:\users\pc-eng-esraa\desktop\new folder (2)\last oooop\include\person.h
+	<iostream>
+	<string>
+
+1451323985 c:\users\pc-eng-esraa\desktop\new folder (2)\last oooop\include\symptoms.h
+	<string>
+	<iostream>
+
+1451385839 c:\users\pc-eng-esraa\desktop\new folder (2)\last oooop\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451382826 c:\users\pc-eng-esraa\desktop\new folder (2)\last oooop\include\medicine.h
+	<string>
+	<iostream>
+	"Diseases.h"
+
+1451382882 c:\users\pc-eng-esraa\desktop\new folder (2)\last oooop\template.h
+
+1451383027 c:\users\pc-eng-esraa\desktop\new folder (2)\last oooop\include\operations.h
+	<string>
+	<iostream>
+
+1451335814 source:c:\users\pc-eng-esraa\desktop\new folder (2)\last oooop\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Diagonsis.h"
+
+1451211104 c:\users\pc-eng-esraa\desktop\new folder (2)\last oooop\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1451385839 source:c:\users\pc-eng-esraa\desktop\new folder (2)\last oooop\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451386026 source:c:\users\pc-eng-esraa\desktop\new folder (2)\last oooop\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+	"Person.h"
+
+1451385839 source:c:\users\pc-eng-esraa\desktop\new folder (2)\last oooop\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+	<string>
+
+1451386493 source:c:\users\pc-eng-esraa\desktop\new folder (2)\last oooop\src\operations.cpp
+	"Operations.h"
+
+1451386181 source:c:\users\pc-eng-esraa\desktop\new folder (2)\last oooop\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1450874750 source:c:\users\pc-eng-esraa\desktop\new folder (2)\last oooop\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451385915 source:c:\users\pc-eng-esraa\desktop\new folder (2)\last oooop\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+
+1451397658 source:c:\users\user\desktop\new folder (2)\last oooop\diagonsis.cpp
+	"Diagonsis.h"
+	<windows.h>
+
+1451394680 c:\users\user\desktop\new folder (2)\last oooop\diagonsis.h
+	"Doctor.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Patient.h"
+
+1451391482 c:\users\user\desktop\new folder (2)\last oooop\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+
+1451394680 c:\users\user\desktop\new folder (2)\last oooop\include\person.h
+	<iostream>
+	<string>
+
+1451392284 c:\users\user\desktop\new folder (2)\last oooop\include\symptoms.h
+	<string>
+	<iostream>
+
+1451389573 c:\users\user\desktop\new folder (2)\last oooop\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451382828 c:\users\user\desktop\new folder (2)\last oooop\include\medicine.h
+	<string>
+	<iostream>
+	"Diseases.h"
+
+1451382884 c:\users\user\desktop\new folder (2)\last oooop\template.h
+
+1451392407 c:\users\user\desktop\new folder (2)\last oooop\include\operations.h
+	<string>
+	<iostream>
+
+1451335816 source:c:\users\user\desktop\new folder (2)\last oooop\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Diagonsis.h"
+
+1451394327 c:\users\user\desktop\new folder (2)\last oooop\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1451393193 source:c:\users\user\desktop\new folder (2)\last oooop\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+	"Person.h"
+
+1451393193 source:c:\users\user\desktop\new folder (2)\last oooop\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+	<string>
+
+1451393193 source:c:\users\user\desktop\new folder (2)\last oooop\src\operations.cpp
+	"Operations.h"
+
+1451393193 source:c:\users\user\desktop\new folder (2)\last oooop\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1451393193 source:c:\users\user\desktop\new folder (2)\last oooop\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451393193 source:c:\users\user\desktop\new folder (2)\last oooop\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+
+1451393193 source:c:\users\user\desktop\new folder (2)\last oooop\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451397660 source:g:\new folder (2)\last oooop\diagonsis.cpp
+	"Diagonsis.h"
+	<windows.h>
+
+1451394682 g:\new folder (2)\last oooop\diagonsis.h
+	"Doctor.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Patient.h"
+
+1451391484 g:\new folder (2)\last oooop\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+
+1451394682 g:\new folder (2)\last oooop\include\person.h
+	<iostream>
+	<string>
+
+1451392286 g:\new folder (2)\last oooop\include\symptoms.h
+	<string>
+	<iostream>
+
+1451389574 g:\new folder (2)\last oooop\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451382828 g:\new folder (2)\last oooop\include\medicine.h
+	<string>
+	<iostream>
+	"Diseases.h"
+
+1451382884 g:\new folder (2)\last oooop\template.h
+
+1451392408 g:\new folder (2)\last oooop\include\operations.h
+	<string>
+	<iostream>
+
+1451394328 g:\new folder (2)\last oooop\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1451335816 source:g:\new folder (2)\last oooop\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Diagonsis.h"
+
+1451393194 source:g:\new folder (2)\last oooop\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451393194 source:g:\new folder (2)\last oooop\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+	"Person.h"
+
+1451393194 source:g:\new folder (2)\last oooop\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+	<string>
+
+1451393194 source:g:\new folder (2)\last oooop\src\operations.cpp
+	"Operations.h"
+
+1451393194 source:g:\new folder (2)\last oooop\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1451393194 source:g:\new folder (2)\last oooop\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451393194 source:g:\new folder (2)\last oooop\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+
+1451480738 source:f:\new folder (2)\last oooop\diagonsis.cpp
+	"Diagonsis.h"
+	<windows.h>
+
+1451394682 f:\new folder (2)\last oooop\diagonsis.h
+	"Doctor.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Patient.h"
+
+1451391484 f:\new folder (2)\last oooop\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+
+1451394682 f:\new folder (2)\last oooop\include\person.h
+	<iostream>
+	<string>
+
+1451392286 f:\new folder (2)\last oooop\include\symptoms.h
+	<string>
+	<iostream>
+
+1451480304 f:\new folder (2)\last oooop\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451382828 f:\new folder (2)\last oooop\include\medicine.h
+	<string>
+	<iostream>
+	"Diseases.h"
+
+1451382884 f:\new folder (2)\last oooop\template.h
+
+1451392408 f:\new folder (2)\last oooop\include\operations.h
+	<string>
+	<iostream>
+
+1451394328 f:\new folder (2)\last oooop\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1451335816 source:f:\new folder (2)\last oooop\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Diagonsis.h"
+
+1451480898 source:f:\new folder (2)\last oooop\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451393194 source:f:\new folder (2)\last oooop\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+	"Person.h"
+
+1451475786 source:f:\new folder (2)\last oooop\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+	<string>
+
+1451393194 source:f:\new folder (2)\last oooop\src\operations.cpp
+	"Operations.h"
+
+1451393194 source:f:\new folder (2)\last oooop\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1451393194 source:f:\new folder (2)\last oooop\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451479432 source:f:\new folder (2)\last oooop\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+
+1451486990 source:h:\new folder (2)(2222)\last oooop\diagonsis.cpp
+	"Diagonsis.h"
+	<windows.h>
+
+1451394682 h:\new folder (2)(2222)\last oooop\diagonsis.h
+	"Doctor.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Patient.h"
+
+1451486716 h:\new folder (2)(2222)\last oooop\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+
+1451394682 h:\new folder (2)(2222)\last oooop\include\person.h
+	<iostream>
+	<string>
+
+1451392286 h:\new folder (2)(2222)\last oooop\include\symptoms.h
+	<string>
+	<iostream>
+
+1451482230 h:\new folder (2)(2222)\last oooop\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451382828 h:\new folder (2)(2222)\last oooop\include\medicine.h
+	<string>
+	<iostream>
+	"Diseases.h"
+
+1451382884 h:\new folder (2)(2222)\last oooop\template.h
+
+1451392408 h:\new folder (2)(2222)\last oooop\include\operations.h
+	<string>
+	<iostream>
+
+1451394328 h:\new folder (2)(2222)\last oooop\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1451335816 source:h:\new folder (2)(2222)\last oooop\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Diagonsis.h"
+
+1451486716 source:h:\new folder (2)(2222)\last oooop\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+	"Person.h"
+
+1451483868 source:h:\new folder (2)(2222)\last oooop\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+	<string>
+
+1451393194 source:h:\new folder (2)(2222)\last oooop\src\operations.cpp
+	"Operations.h"
+
+1451393194 source:h:\new folder (2)(2222)\last oooop\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1451393194 source:h:\new folder (2)(2222)\last oooop\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451479432 source:h:\new folder (2)(2222)\last oooop\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+
+1451481086 source:f:\new folder (2)(2222)\last oooop\diagonsis.cpp
+	"Diagonsis.h"
+	<windows.h>
+
+1451394682 f:\new folder (2)(2222)\last oooop\diagonsis.h
+	"Doctor.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Patient.h"
+
+1451391484 f:\new folder (2)(2222)\last oooop\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+
+1451394682 f:\new folder (2)(2222)\last oooop\include\person.h
+	<iostream>
+	<string>
+
+1451392286 f:\new folder (2)(2222)\last oooop\include\symptoms.h
+	<string>
+	<iostream>
+
+1451482230 f:\new folder (2)(2222)\last oooop\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451382828 f:\new folder (2)(2222)\last oooop\include\medicine.h
+	<string>
+	<iostream>
+	"Diseases.h"
+
+1451382884 f:\new folder (2)(2222)\last oooop\template.h
+
+1451392408 f:\new folder (2)(2222)\last oooop\include\operations.h
+	<string>
+	<iostream>
+
+1451394328 f:\new folder (2)(2222)\last oooop\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1451335816 source:f:\new folder (2)(2222)\last oooop\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Diagonsis.h"
+
+1451481346 source:f:\new folder (2)(2222)\last oooop\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451393194 source:f:\new folder (2)(2222)\last oooop\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+	"Person.h"
+
+1451475786 source:f:\new folder (2)(2222)\last oooop\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+	<string>
+
+1451393194 source:f:\new folder (2)(2222)\last oooop\src\operations.cpp
+	"Operations.h"
+
+1451393194 source:f:\new folder (2)(2222)\last oooop\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1451393194 source:f:\new folder (2)(2222)\last oooop\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451479432 source:f:\new folder (2)(2222)\last oooop\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+
+1451484856 source:h:\new folder (2)(2222)\last oooop\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451495875 source:c:\users\pc-eng-esraa\desktop\last project ooooooop\last oooop\diagonsis.cpp
+	"Diagonsis.h"
+	<windows.h>
+
+1451490357 c:\users\pc-eng-esraa\desktop\last project ooooooop\last oooop\diagonsis.h
+	"Doctor.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Patient.h"
+
+1451496313 c:\users\pc-eng-esraa\desktop\last project ooooooop\last oooop\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+	"Diseases.h"
+
+1451394682 c:\users\pc-eng-esraa\desktop\last project ooooooop\last oooop\include\person.h
+	<iostream>
+	<string>
+
+1451392286 c:\users\pc-eng-esraa\desktop\last project ooooooop\last oooop\include\symptoms.h
+	<string>
+	<iostream>
+
+1451489912 c:\users\pc-eng-esraa\desktop\last project ooooooop\last oooop\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451490218 c:\users\pc-eng-esraa\desktop\last project ooooooop\last oooop\include\medicine.h
+	<string>
+	<iostream>
+	"Diseases.h"
+
+1451488143 c:\users\pc-eng-esraa\desktop\last project ooooooop\last oooop\template.h
+
+1451490051 c:\users\pc-eng-esraa\desktop\last project ooooooop\last oooop\include\operations.h
+	"Diseases.h"
+	<string>
+	<iostream>
+
+1451394328 c:\users\pc-eng-esraa\desktop\last project ooooooop\last oooop\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1451335816 source:c:\users\pc-eng-esraa\desktop\last project ooooooop\last oooop\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Diagonsis.h"
+
+1451492778 source:c:\users\pc-eng-esraa\desktop\last project ooooooop\last oooop\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451496413 source:c:\users\pc-eng-esraa\desktop\last project ooooooop\last oooop\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+	"Person.h"
+
+1451496647 source:c:\users\pc-eng-esraa\desktop\last project ooooooop\last oooop\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+	<string>
+
+1451496647 source:c:\users\pc-eng-esraa\desktop\last project ooooooop\last oooop\src\operations.cpp
+	"Operations.h"
+
+1451393194 source:c:\users\pc-eng-esraa\desktop\last project ooooooop\last oooop\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1451393194 source:c:\users\pc-eng-esraa\desktop\last project ooooooop\last oooop\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451479432 source:c:\users\pc-eng-esraa\desktop\last project ooooooop\last oooop\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+
+1451335816 source:d:\med\last project ooooooop\last oooop\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Diagonsis.h"
+
+1451496314 d:\med\last project ooooooop\last oooop\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+	"Diseases.h"
+
+1451394682 d:\med\last project ooooooop\last oooop\include\person.h
+	<iostream>
+	<string>
+
+1451489914 d:\med\last project ooooooop\last oooop\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451392286 d:\med\last project ooooooop\last oooop\include\symptoms.h
+	<string>
+	<iostream>
+
+1451394328 d:\med\last project ooooooop\last oooop\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1451490220 d:\med\last project ooooooop\last oooop\include\medicine.h
+	<string>
+	<iostream>
+	"Diseases.h"
+
+1451488144 d:\med\last project ooooooop\last oooop\template.h
+
+1451490052 d:\med\last project ooooooop\last oooop\include\operations.h
+	"Diseases.h"
+	<string>
+	<iostream>
+
+1451490358 d:\med\last project ooooooop\last oooop\diagonsis.h
+	"Doctor.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Patient.h"
+
+1451492780 source:d:\med\last project ooooooop\last oooop\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451496414 source:d:\med\last project ooooooop\last oooop\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+	"Person.h"
+
+1451496648 source:d:\med\last project ooooooop\last oooop\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+	<string>
+
+1451496648 source:d:\med\last project ooooooop\last oooop\src\operations.cpp
+	"Operations.h"
+
+1451393194 source:d:\med\last project ooooooop\last oooop\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1451393194 source:d:\med\last project ooooooop\last oooop\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451479432 source:d:\med\last project ooooooop\last oooop\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+
+1451497398 source:d:\med\last project ooooooop\last oooop\diagonsis.cpp
+	"Diagonsis.h"
+	<windows.h>
+
+1451555438 source:e:\med - copy\last project ooooooop\last oooop\diagonsis.cpp
+	"Diagonsis.h"
+	<windows.h>
+
+1451490358 e:\med - copy\last project ooooooop\last oooop\diagonsis.h
+	"Doctor.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Patient.h"
+
+1451555438 e:\med - copy\last project ooooooop\last oooop\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+	"Diseases.h"
+
+1451394682 e:\med - copy\last project ooooooop\last oooop\include\person.h
+	<iostream>
+	<string>
+
+1451554574 e:\med - copy\last project ooooooop\last oooop\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451392286 e:\med - copy\last project ooooooop\last oooop\include\symptoms.h
+	<string>
+	<iostream>
+
+1451490220 e:\med - copy\last project ooooooop\last oooop\include\medicine.h
+	<string>
+	<iostream>
+	"Diseases.h"
+
+1451488144 e:\med - copy\last project ooooooop\last oooop\template.h
+
+1451490052 e:\med - copy\last project ooooooop\last oooop\include\operations.h
+	"Diseases.h"
+	<string>
+	<iostream>
+
+1451394328 e:\med - copy\last project ooooooop\last oooop\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1451335816 source:e:\med - copy\last project ooooooop\last oooop\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Diagonsis.h"
+
+1451555440 source:e:\med - copy\last project ooooooop\last oooop\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451496414 source:e:\med - copy\last project ooooooop\last oooop\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+	"Person.h"
+
+1451555440 source:e:\med - copy\last project ooooooop\last oooop\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+	<string>
+
+1451496648 source:e:\med - copy\last project ooooooop\last oooop\src\operations.cpp
+	"Operations.h"
+
+1451393194 source:e:\med - copy\last project ooooooop\last oooop\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1451393194 source:e:\med - copy\last project ooooooop\last oooop\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451479432 source:e:\med - copy\last project ooooooop\last oooop\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+
+1451556584 source:c:\users\pc-eng-esraa\desktop\med - copy\last project ooooooop\last oooop\diagonsis.cpp
+	"Diagonsis.h"
+	<windows.h>
+
+1451556810 c:\users\pc-eng-esraa\desktop\med - copy\last project ooooooop\last oooop\diagonsis.h
+	"Doctor.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Patient.h"
+
+1451556460 c:\users\pc-eng-esraa\desktop\med - copy\last project ooooooop\last oooop\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+	"Diseases.h"
+
+1451556460 c:\users\pc-eng-esraa\desktop\med - copy\last project ooooooop\last oooop\include\person.h
+	<iostream>
+	<string>
+
+1451556810 c:\users\pc-eng-esraa\desktop\med - copy\last project ooooooop\last oooop\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451392286 c:\users\pc-eng-esraa\desktop\med - copy\last project ooooooop\last oooop\include\symptoms.h
+	<string>
+	<iostream>
+
+1451490220 c:\users\pc-eng-esraa\desktop\med - copy\last project ooooooop\last oooop\include\medicine.h
+	<string>
+	<iostream>
+	"Diseases.h"
+
+1451488144 c:\users\pc-eng-esraa\desktop\med - copy\last project ooooooop\last oooop\template.h
+
+1451490052 c:\users\pc-eng-esraa\desktop\med - copy\last project ooooooop\last oooop\include\operations.h
+	"Diseases.h"
+	<string>
+	<iostream>
+
+1451556460 c:\users\pc-eng-esraa\desktop\med - copy\last project ooooooop\last oooop\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1451335816 source:c:\users\pc-eng-esraa\desktop\med - copy\last project ooooooop\last oooop\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Diagonsis.h"
+
+1451555598 source:c:\users\pc-eng-esraa\desktop\med - copy\last project ooooooop\last oooop\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451556460 source:c:\users\pc-eng-esraa\desktop\med - copy\last project ooooooop\last oooop\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+	"Person.h"
+
+1451555440 source:c:\users\pc-eng-esraa\desktop\med - copy\last project ooooooop\last oooop\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+	<string>
+
+1451496648 source:c:\users\pc-eng-esraa\desktop\med - copy\last project ooooooop\last oooop\src\operations.cpp
+	"Operations.h"
+
+1451556460 source:c:\users\pc-eng-esraa\desktop\med - copy\last project ooooooop\last oooop\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1451393194 source:c:\users\pc-eng-esraa\desktop\med - copy\last project ooooooop\last oooop\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451479432 source:c:\users\pc-eng-esraa\desktop\med - copy\last project ooooooop\last oooop\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+
+1451558412 source:e:\finalllllllll\last project ooooooop\last oooop\diagonsis.cpp
+	"Diagonsis.h"
+	<windows.h>
+
+1451556812 e:\finalllllllll\last project ooooooop\last oooop\diagonsis.h
+	"Doctor.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Patient.h"
+
+1451556462 e:\finalllllllll\last project ooooooop\last oooop\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+	"Diseases.h"
+
+1451556462 e:\finalllllllll\last project ooooooop\last oooop\include\person.h
+	<iostream>
+	<string>
+
+1451557640 e:\finalllllllll\last project ooooooop\last oooop\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451392286 e:\finalllllllll\last project ooooooop\last oooop\include\symptoms.h
+	<string>
+	<iostream>
+
+1451490220 e:\finalllllllll\last project ooooooop\last oooop\include\medicine.h
+	<string>
+	<iostream>
+	"Diseases.h"
+
+1451488144 e:\finalllllllll\last project ooooooop\last oooop\template.h
+
+1451490052 e:\finalllllllll\last project ooooooop\last oooop\include\operations.h
+	"Diseases.h"
+	<string>
+	<iostream>
+
+1451556462 e:\finalllllllll\last project ooooooop\last oooop\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1451335816 source:e:\finalllllllll\last project ooooooop\last oooop\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Diagonsis.h"
+
+1451557640 source:e:\finalllllllll\last project ooooooop\last oooop\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+	"Person.h"
+
+1451557640 source:e:\finalllllllll\last project ooooooop\last oooop\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+	<string>
+
+1451557640 source:e:\finalllllllll\last project ooooooop\last oooop\src\operations.cpp
+	"Operations.h"
+
+1451557640 source:e:\finalllllllll\last project ooooooop\last oooop\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1451393194 source:e:\finalllllllll\last project ooooooop\last oooop\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451557640 source:e:\finalllllllll\last project ooooooop\last oooop\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+
+1451557640 source:e:\finalllllllll\last project ooooooop\last oooop\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451558930 source:h:\finalllllllll\last project ooooooop\last oooop\diagonsis.cpp
+	"Diagonsis.h"
+	<windows.h>
+
+1451556812 h:\finalllllllll\last project ooooooop\last oooop\diagonsis.h
+	"Doctor.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Patient.h"
+
+1451556462 h:\finalllllllll\last project ooooooop\last oooop\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+	"Diseases.h"
+
+1451556462 h:\finalllllllll\last project ooooooop\last oooop\include\person.h
+	<iostream>
+	<string>
+
+1451557640 h:\finalllllllll\last project ooooooop\last oooop\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451392286 h:\finalllllllll\last project ooooooop\last oooop\include\symptoms.h
+	<string>
+	<iostream>
+
+1451490220 h:\finalllllllll\last project ooooooop\last oooop\include\medicine.h
+	<string>
+	<iostream>
+	"Diseases.h"
+
+1451488144 h:\finalllllllll\last project ooooooop\last oooop\template.h
+
+1451490052 h:\finalllllllll\last project ooooooop\last oooop\include\operations.h
+	"Diseases.h"
+	<string>
+	<iostream>
+
+1451556462 h:\finalllllllll\last project ooooooop\last oooop\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1451335816 source:h:\finalllllllll\last project ooooooop\last oooop\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Diagonsis.h"
+
+1451558612 source:h:\finalllllllll\last project ooooooop\last oooop\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451557640 source:h:\finalllllllll\last project ooooooop\last oooop\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+	"Person.h"
+
+1451557640 source:h:\finalllllllll\last project ooooooop\last oooop\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+	<string>
+
+1451557640 source:h:\finalllllllll\last project ooooooop\last oooop\src\operations.cpp
+	"Operations.h"
+
+1451557640 source:h:\finalllllllll\last project ooooooop\last oooop\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1451393194 source:h:\finalllllllll\last project ooooooop\last oooop\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451557640 source:h:\finalllllllll\last project ooooooop\last oooop\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+
+1451655742 source:c:\users\pc-eng-esraa\desktop\finalllllllll\last project ooooooop\last oooop\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	<windows.h>
+	"Diagonsis.h"
+
+1451556462 c:\users\pc-eng-esraa\desktop\finalllllllll\last project ooooooop\last oooop\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+	"Diseases.h"
+
+1451556462 c:\users\pc-eng-esraa\desktop\finalllllllll\last project ooooooop\last oooop\include\person.h
+	<iostream>
+	<string>
+
+1451568480 c:\users\pc-eng-esraa\desktop\finalllllllll\last project ooooooop\last oooop\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451392286 c:\users\pc-eng-esraa\desktop\finalllllllll\last project ooooooop\last oooop\include\symptoms.h
+	<string>
+	<iostream>
+
+1451556462 c:\users\pc-eng-esraa\desktop\finalllllllll\last project ooooooop\last oooop\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1451490220 c:\users\pc-eng-esraa\desktop\finalllllllll\last project ooooooop\last oooop\include\medicine.h
+	<string>
+	<iostream>
+	"Diseases.h"
+
+1451488144 c:\users\pc-eng-esraa\desktop\finalllllllll\last project ooooooop\last oooop\template.h
+
+1451490052 c:\users\pc-eng-esraa\desktop\finalllllllll\last project ooooooop\last oooop\include\operations.h
+	"Diseases.h"
+	<string>
+	<iostream>
+
+1451556812 c:\users\pc-eng-esraa\desktop\finalllllllll\last project ooooooop\last oooop\diagonsis.h
+	"Doctor.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Patient.h"
+
+1451602225 source:c:\users\pc-eng-esraa\desktop\finalllllllll\last project ooooooop\last oooop\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+	"Person.h"
+
+1451557640 source:c:\users\pc-eng-esraa\desktop\finalllllllll\last project ooooooop\last oooop\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+	<string>
+
+1451569546 source:c:\users\pc-eng-esraa\desktop\finalllllllll\last project ooooooop\last oooop\src\operations.cpp
+	"Operations.h"
+
+1451557640 source:c:\users\pc-eng-esraa\desktop\finalllllllll\last project ooooooop\last oooop\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1451393194 source:c:\users\pc-eng-esraa\desktop\finalllllllll\last project ooooooop\last oooop\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451569546 source:c:\users\pc-eng-esraa\desktop\finalllllllll\last project ooooooop\last oooop\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+
+1451655815 source:c:\users\pc-eng-esraa\desktop\finalllllllll\last project ooooooop\last oooop\diagonsis.cpp
+	"Diagonsis.h"
+	<windows.h>
+
+1451588389 source:c:\users\pc-eng-esraa\desktop\finalllllllll\last project ooooooop\last oooop\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451669109 source:c:\users\administrator\desktop\finallllllllles\finalllllllll\last project ooooooop\last oooop\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	<windows.h>
+	"Diagonsis.h"
+
+1451556462 c:\users\administrator\desktop\finallllllllles\finalllllllll\last project ooooooop\last oooop\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+	"Diseases.h"
+
+1451556462 c:\users\administrator\desktop\finallllllllles\finalllllllll\last project ooooooop\last oooop\include\person.h
+	<iostream>
+	<string>
+
+1451666102 c:\users\administrator\desktop\finallllllllles\finalllllllll\last project ooooooop\last oooop\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451392286 c:\users\administrator\desktop\finallllllllles\finalllllllll\last project ooooooop\last oooop\include\symptoms.h
+	<string>
+	<iostream>
+
+1451556462 c:\users\administrator\desktop\finallllllllles\finalllllllll\last project ooooooop\last oooop\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1451490220 c:\users\administrator\desktop\finallllllllles\finalllllllll\last project ooooooop\last oooop\include\medicine.h
+	<string>
+	<iostream>
+	"Diseases.h"
+
+1451488144 c:\users\administrator\desktop\finallllllllles\finalllllllll\last project ooooooop\last oooop\template.h
+
+1451490052 c:\users\administrator\desktop\finallllllllles\finalllllllll\last project ooooooop\last oooop\include\operations.h
+	"Diseases.h"
+	<string>
+	<iostream>
+
+1451665752 c:\users\administrator\desktop\finallllllllles\finalllllllll\last project ooooooop\last oooop\diagonsis.h
+	"Doctor.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Patient.h"
+
+1451678566 source:c:\users\administrator\desktop\finallllllllles\finalllllllll\last project ooooooop\last oooop\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451666101 source:c:\users\administrator\desktop\finallllllllles\finalllllllll\last project ooooooop\last oooop\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+	"Person.h"
+
+1451557640 source:c:\users\administrator\desktop\finallllllllles\finalllllllll\last project ooooooop\last oooop\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+	<string>
+
+1451666101 source:c:\users\administrator\desktop\finallllllllles\finalllllllll\last project ooooooop\last oooop\src\operations.cpp
+	"Operations.h"
+
+1451666102 source:c:\users\administrator\desktop\finallllllllles\finalllllllll\last project ooooooop\last oooop\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1451393194 source:c:\users\administrator\desktop\finallllllllles\finalllllllll\last project ooooooop\last oooop\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451678566 source:c:\users\administrator\desktop\finallllllllles\finalllllllll\last project ooooooop\last oooop\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+	<windows.h>
+
+1451674458 source:c:\users\administrator\desktop\finallllllllles\finalllllllll\last project ooooooop\last oooop\diagonsis.cpp
+	"Diagonsis.h"
+	<windows.h>
+
+1451674458 source:c:\users\pc-eng-esraa\downloads\finalllllllllnew\finallllllllles\finalllllllll\last project ooooooop\last oooop\diagonsis.cpp
+	"Diagonsis.h"
+	<windows.h>
+
+1451665752 c:\users\pc-eng-esraa\downloads\finalllllllllnew\finallllllllles\finalllllllll\last project ooooooop\last oooop\diagonsis.h
+	"Doctor.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Patient.h"
+
+1451556462 c:\users\pc-eng-esraa\downloads\finalllllllllnew\finallllllllles\finalllllllll\last project ooooooop\last oooop\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+	"Diseases.h"
+
+1451556462 c:\users\pc-eng-esraa\downloads\finalllllllllnew\finallllllllles\finalllllllll\last project ooooooop\last oooop\include\person.h
+	<iostream>
+	<string>
+
+1451666102 c:\users\pc-eng-esraa\downloads\finalllllllllnew\finallllllllles\finalllllllll\last project ooooooop\last oooop\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451392286 c:\users\pc-eng-esraa\downloads\finalllllllllnew\finallllllllles\finalllllllll\last project ooooooop\last oooop\include\symptoms.h
+	<string>
+	<iostream>
+
+1451490220 c:\users\pc-eng-esraa\downloads\finalllllllllnew\finallllllllles\finalllllllll\last project ooooooop\last oooop\include\medicine.h
+	<string>
+	<iostream>
+	"Diseases.h"
+
+1451488144 c:\users\pc-eng-esraa\downloads\finalllllllllnew\finallllllllles\finalllllllll\last project ooooooop\last oooop\template.h
+
+1451490052 c:\users\pc-eng-esraa\downloads\finalllllllllnew\finallllllllles\finalllllllll\last project ooooooop\last oooop\include\operations.h
+	"Diseases.h"
+	<string>
+	<iostream>
+
+1451556462 c:\users\pc-eng-esraa\downloads\finalllllllllnew\finallllllllles\finalllllllll\last project ooooooop\last oooop\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1451669109 source:c:\users\pc-eng-esraa\downloads\finalllllllllnew\finallllllllles\finalllllllll\last project ooooooop\last oooop\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	<windows.h>
+	"Diagonsis.h"
+
+1451678566 source:c:\users\pc-eng-esraa\downloads\finalllllllllnew\finallllllllles\finalllllllll\last project ooooooop\last oooop\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451666101 source:c:\users\pc-eng-esraa\downloads\finalllllllllnew\finallllllllles\finalllllllll\last project ooooooop\last oooop\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+	"Person.h"
+
+1451557640 source:c:\users\pc-eng-esraa\downloads\finalllllllllnew\finallllllllles\finalllllllll\last project ooooooop\last oooop\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+	<string>
+
+1451666101 source:c:\users\pc-eng-esraa\downloads\finalllllllllnew\finallllllllles\finalllllllll\last project ooooooop\last oooop\src\operations.cpp
+	"Operations.h"
+
+1451666102 source:c:\users\pc-eng-esraa\downloads\finalllllllllnew\finallllllllles\finalllllllll\last project ooooooop\last oooop\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1451393194 source:c:\users\pc-eng-esraa\downloads\finalllllllllnew\finallllllllles\finalllllllll\last project ooooooop\last oooop\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451678566 source:c:\users\pc-eng-esraa\downloads\finalllllllllnew\finallllllllles\finalllllllll\last project ooooooop\last oooop\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+	<windows.h>
+
+1451679294 source:c:\users\pc-eng-esraa\desktop\diagnosis(5) project\last oooop\diagonsis.cpp
+	"Diagonsis.h"
+	<windows.h>
+
+1451665752 c:\users\pc-eng-esraa\desktop\diagnosis(5) project\last oooop\diagonsis.h
+	"Doctor.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Patient.h"
+
+1451556462 c:\users\pc-eng-esraa\desktop\diagnosis(5) project\last oooop\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+	"Diseases.h"
+
+1451556462 c:\users\pc-eng-esraa\desktop\diagnosis(5) project\last oooop\include\person.h
+	<iostream>
+	<string>
+
+1451666102 c:\users\pc-eng-esraa\desktop\diagnosis(5) project\last oooop\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451392286 c:\users\pc-eng-esraa\desktop\diagnosis(5) project\last oooop\include\symptoms.h
+	<string>
+	<iostream>
+
+1451490220 c:\users\pc-eng-esraa\desktop\diagnosis(5) project\last oooop\include\medicine.h
+	<string>
+	<iostream>
+	"Diseases.h"
+
+1451488144 c:\users\pc-eng-esraa\desktop\diagnosis(5) project\last oooop\template.h
+
+1451490052 c:\users\pc-eng-esraa\desktop\diagnosis(5) project\last oooop\include\operations.h
+	"Diseases.h"
+	<string>
+	<iostream>
+
+1451556462 c:\users\pc-eng-esraa\desktop\diagnosis(5) project\last oooop\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1451669109 source:c:\users\pc-eng-esraa\desktop\diagnosis(5) project\last oooop\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	<windows.h>
+	"Diagonsis.h"
+
+1451678566 source:c:\users\pc-eng-esraa\desktop\diagnosis(5) project\last oooop\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451666101 source:c:\users\pc-eng-esraa\desktop\diagnosis(5) project\last oooop\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+	"Person.h"
+
+1451557640 source:c:\users\pc-eng-esraa\desktop\diagnosis(5) project\last oooop\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+	<string>
+
+1451666101 source:c:\users\pc-eng-esraa\desktop\diagnosis(5) project\last oooop\src\operations.cpp
+	"Operations.h"
+
+1451666102 source:c:\users\pc-eng-esraa\desktop\diagnosis(5) project\last oooop\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1451393194 source:c:\users\pc-eng-esraa\desktop\diagnosis(5) project\last oooop\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451678566 source:c:\users\pc-eng-esraa\desktop\diagnosis(5) project\last oooop\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+	<windows.h>
+
+1451679294 source:c:\users\aya\desktop\2nd year\oop\project\diagnosis(5) project\last oooop\diagonsis.cpp
+	"Diagonsis.h"
+	<windows.h>
+
+1451665752 c:\users\aya\desktop\2nd year\oop\project\diagnosis(5) project\last oooop\diagonsis.h
+	"Doctor.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Patient.h"
+
+1451556462 c:\users\aya\desktop\2nd year\oop\project\diagnosis(5) project\last oooop\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+	"Diseases.h"
+
+1451556462 c:\users\aya\desktop\2nd year\oop\project\diagnosis(5) project\last oooop\include\person.h
+	<iostream>
+	<string>
+
+1451666102 c:\users\aya\desktop\2nd year\oop\project\diagnosis(5) project\last oooop\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451392286 c:\users\aya\desktop\2nd year\oop\project\diagnosis(5) project\last oooop\include\symptoms.h
+	<string>
+	<iostream>
+
+1451490220 c:\users\aya\desktop\2nd year\oop\project\diagnosis(5) project\last oooop\include\medicine.h
+	<string>
+	<iostream>
+	"Diseases.h"
+
+1451488144 c:\users\aya\desktop\2nd year\oop\project\diagnosis(5) project\last oooop\template.h
+
+1451490052 c:\users\aya\desktop\2nd year\oop\project\diagnosis(5) project\last oooop\include\operations.h
+	"Diseases.h"
+	<string>
+	<iostream>
+
+1451556462 c:\users\aya\desktop\2nd year\oop\project\diagnosis(5) project\last oooop\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1451678566 source:c:\users\aya\desktop\2nd year\oop\project\diagnosis(5) project\last oooop\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451666101 source:c:\users\aya\desktop\2nd year\oop\project\diagnosis(5) project\last oooop\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+	"Person.h"
+
+1451557640 source:c:\users\aya\desktop\2nd year\oop\project\diagnosis(5) project\last oooop\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+	<string>
+
+1451666101 source:c:\users\aya\desktop\2nd year\oop\project\diagnosis(5) project\last oooop\src\operations.cpp
+	"Operations.h"
+
+1451666102 source:c:\users\aya\desktop\2nd year\oop\project\diagnosis(5) project\last oooop\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1451393194 source:c:\users\aya\desktop\2nd year\oop\project\diagnosis(5) project\last oooop\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451678566 source:c:\users\aya\desktop\2nd year\oop\project\diagnosis(5) project\last oooop\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+	<windows.h>
+
+1451924910 source:c:\users\aya\desktop\2nd year\oop\project\diagnosis(5) project\last oooop\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	<windows.h>
+	"Diagonsis.h"
+
+1451679294 source:d:\study fci\second year\1st term\oop\project\diagnosis(5) project\last oooop\diagonsis.cpp
+	"Diagonsis.h"
+	<windows.h>
+
+1451665752 d:\study fci\second year\1st term\oop\project\diagnosis(5) project\last oooop\diagonsis.h
+	"Doctor.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	"Patient.h"
+
+1451556462 d:\study fci\second year\1st term\oop\project\diagnosis(5) project\last oooop\include\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+	<fstream>
+	"Diseases.h"
+
+1451556462 d:\study fci\second year\1st term\oop\project\diagnosis(5) project\last oooop\include\person.h
+	<iostream>
+	<string>
+
+1451666102 d:\study fci\second year\1st term\oop\project\diagnosis(5) project\last oooop\include\diseases.h
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451392286 d:\study fci\second year\1st term\oop\project\diagnosis(5) project\last oooop\include\symptoms.h
+	<string>
+	<iostream>
+
+1451490220 d:\study fci\second year\1st term\oop\project\diagnosis(5) project\last oooop\include\medicine.h
+	<string>
+	<iostream>
+	"Diseases.h"
+
+1451488144 d:\study fci\second year\1st term\oop\project\diagnosis(5) project\last oooop\template.h
+
+1451490052 d:\study fci\second year\1st term\oop\project\diagnosis(5) project\last oooop\include\operations.h
+	"Diseases.h"
+	<string>
+	<iostream>
+
+1451556462 d:\study fci\second year\1st term\oop\project\diagnosis(5) project\last oooop\include\patient.h
+	<iostream>
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1451924910 source:d:\study fci\second year\1st term\oop\project\diagnosis(5) project\last oooop\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Diseases.h"
+	"Medicine.h"
+	"template.h"
+	"Operations.h"
+	<windows.h>
+	"Diagonsis.h"
+
+1451678566 source:d:\study fci\second year\1st term\oop\project\diagnosis(5) project\last oooop\src\diseases.cpp
+	"Diseases.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1451666101 source:d:\study fci\second year\1st term\oop\project\diagnosis(5) project\last oooop\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+	<string>
+	"Person.h"
+
+1451557640 source:d:\study fci\second year\1st term\oop\project\diagnosis(5) project\last oooop\src\medicine.cpp
+	"Medicine.h"
+	<fstream>
+	<string>
+
+1451666101 source:d:\study fci\second year\1st term\oop\project\diagnosis(5) project\last oooop\src\operations.cpp
+	"Operations.h"
+
+1451666102 source:d:\study fci\second year\1st term\oop\project\diagnosis(5) project\last oooop\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<iostream>
+	<string>
+
+1451393194 source:d:\study fci\second year\1st term\oop\project\diagnosis(5) project\last oooop\src\person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
+1451678566 source:d:\study fci\second year\1st term\oop\project\diagnosis(5) project\last oooop\src\symptoms.cpp
+	"Symptoms.h"
+	<fstream>
+	"Symptoms.h"
+	<fstream>
+	<string>
+	<iostream>
+	<windows.h>
+
